@@ -16,5 +16,9 @@
 - Python 3.x  
 - OpenCV  
 - PyAV  
-- AprilTag (Python binding)  
+- AprilTag (Python binding)
+
+## DEMO
+可偵測到 AprilTag
+https://youtu.be/jF381qoQyIc
 
