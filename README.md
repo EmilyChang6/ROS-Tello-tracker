@@ -12,11 +12,11 @@
 
 ## 環境需求
 - Ubuntu 18.04 或以上  
-- ROS (建議 melodic 或 noetic)  
+- ROS  
 - Python 3.x  
 - OpenCV  
 - PyAV  
-- AprilTag (Python binding)
+- AprilTag
 
 ## DEMO
 可偵測到 AprilTag
